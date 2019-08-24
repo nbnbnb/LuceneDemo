@@ -122,7 +122,7 @@ public class EsUtils {
 
         //1.创建索引
 
-        EsUtils.createIndex("spnews", 3, 0);
+        EsUtils.createIndex("spnews", 1, 0);
 
         //2.设置Mapping
         try {
